@@ -31,3 +31,5 @@ O site consiste em uma página simples que contém:
 ## Melhorias Futuras
 
 Este projeto será aprimorado com o uso de HTML semântico e CSS, a fim de melhorar a acessibilidade e a estrutura do código. Tabelas serão substituídas por divs e layouts mais adequados.
+
+<img src="https://i.ibb.co/2sxMgdT/image.png" alt="image" border="0">
